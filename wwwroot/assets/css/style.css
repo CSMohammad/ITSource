@@ -215,12 +215,12 @@ h6 {
   margin-left: 5px;
 }
 
-.navbar a:hover,
-.navbar .active,
-.navbar .active:focus,
-.navbar li:hover>a {
-  color: #5fcf80;
-}
+    .navbar a:hover,
+    .navbar .active,
+    .navbar .active:focus,
+    .navbar li:hover> a {
+        color: #5fcf80;
+    }
 
 .navbar .dropdown ul {
   display: block;
@@ -756,7 +756,7 @@ section {
 }
 
 .courses .course-content h3 a:hover {
-  color: #5fcf80;
+  color: #941206;
 }
 
 .courses .course-content p {

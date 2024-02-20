@@ -291,3 +291,4 @@ c:\Users\hanee\OneDrive\المستندات\GitHub\ITSource\obj\Debug\net8.0\refi
 c:\Users\hanee\OneDrive\المستندات\GitHub\ITSource\obj\Debug\net8.0\ITSource.pdb
 c:\Users\hanee\OneDrive\المستندات\GitHub\ITSource\obj\Debug\net8.0\ITSource.genruntimeconfig.cache
 c:\Users\hanee\OneDrive\المستندات\GitHub\ITSource\obj\Debug\net8.0\ref\ITSource.dll
+D:\VS\MH\ITS\ITSource\obj\Debug\net8.0\ITSource.sourcelink.json
