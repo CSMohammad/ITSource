@@ -19,7 +19,49 @@ namespace ITSource.Controllers
         }
         public IActionResult trainers()
         { return View(); }  //rasor file view
-        public IActionResult courses() //IActionResult : it is a interface , can return the type of content 
+        public IActionResult SoftwareEngineering()
+            //IActionResult : it is a interface , can return the type of content 
+        {
+            return View();
+        }
+        public IActionResult ArtificialIntelligence() //IActionResult : it is a interface , can return the type of content 
+        {
+            return View();
+        }
+        public IActionResult ComputerScience() //IActionResult : it is a interface , can return the type of content 
+        {
+            return View();
+        }
+        public IActionResult CyberSecurity() //IActionResult : it is a interface , can return the type of content 
+        {
+            return View();
+        }
+
+        public IActionResult Databases()
+        {
+            return View();
+        }
+        public IActionResult Algo()
+        {
+            return View();
+        }
+        public IActionResult Web1()
+        {
+            return View();
+        }
+        public IActionResult Datastructures()
+        {
+            return View();
+        }
+        public IActionResult Web2()
+        {
+            return View();
+        }
+        public IActionResult CyberBasics()
+        {
+            return View();
+        }
+        public IActionResult IntroAi()
         {
             return View();
         }

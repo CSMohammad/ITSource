@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ITSource
 build_property.RootNamespace = ITSource
@@ -22,16 +30,56 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/MH/ITS/ITSource/Views/Home/courses.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb3Vyc2VzLmNzaHRtbA==
+[D:/VS/MH/ITS/ITSource/Views/Home/Algo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBbGdvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VS/MH/ITS/ITSource/Views/Home/ArtificialIntelligence.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBcnRpZmljaWFsSW50ZWxsaWdlbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VS/MH/ITS/ITSource/Views/Home/ComputerScience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wdXRlclNjaWVuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VS/MH/ITS/ITSource/Views/Home/CyberBasics.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDeWJlckJhc2ljcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VS/MH/ITS/ITSource/Views/Home/CyberSecurity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDeWJlclNlY3VyaXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VS/MH/ITS/ITSource/Views/Home/Databases.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXRhYmFzZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VS/MH/ITS/ITSource/Views/Home/Datastructures.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXRhc3RydWN0dXJlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/VS/MH/ITS/ITSource/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/VS/MH/ITS/ITSource/Views/Home/IntroAi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbnRyb0FpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VS/MH/ITS/ITSource/Views/Home/SoftwareEngineering.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTb2Z0d2FyZUVuZ2luZWVyaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/VS/MH/ITS/ITSource/Views/Home/trainers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0cmFpbmVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VS/MH/ITS/ITSource/Views/Home/Web1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXZWIxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VS/MH/ITS/ITSource/Views/Home/Web2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXZWIyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/VS/MH/ITS/ITSource/Views/Shared/Error.cshtml]
